@@ -1,4 +1,4 @@
-![Banner image](https://github.com/beverlyn/beverlyn/blob/main/banner_image.png)
+![Banner image](./banner_image.webp)
 
 <!--
 **beverlyn/beverlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
